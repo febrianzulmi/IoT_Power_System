@@ -1,8 +1,8 @@
 ## Version
-v1.0.0 (13 Juli 2024)
+v1.1.0 (28 Oktober 2025)
 
 ## Board
-ESP32 Devkit Board v1.0.6
+ESP32 Devkit Board v3.3.1
 
 ## Library
 - SynapsisLibrary
