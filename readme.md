@@ -2,8 +2,10 @@
 v1.1.0 (28 Oktober 2025)
 
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/570e705a-b8f9-419d-8735-f029fb7ffcce" />
-<img width="338" height="325" alt="image" src="https://github.com/user-attachments/assets/f514996b-0deb-417b-b2cf-ba554cfd464c" />
+<img width="315" height="350" alt="image" src="https://github.com/user-attachments/assets/570e705a-b8f9-419d-8735-f029fb7ffcce" />
+<img width="315" height="350" alt="image" src="https://github.com/user-attachments/assets/5d98e102-e29a-42b9-b8d7-3211eb0e1164" />
+
+<img width="315" height="350" alt="image" src="https://github.com/user-attachments/assets/f514996b-0deb-417b-b2cf-ba554cfd464c" />
 <img width="812" height="232" alt="image" src="https://github.com/user-attachments/assets/7a301466-a0bf-4c4f-bb14-7f992f7e891a" />
 
 
