@@ -1,5 +1,7 @@
 ## Version
 v1.1.0 (28 Oktober 2025)
+<img width="953" height="1269" alt="image" src="https://github.com/user-attachments/assets/570e705a-b8f9-419d-8735-f029fb7ffcce" />
+<img width="338" height="325" alt="image" src="https://github.com/user-attachments/assets/f514996b-0deb-417b-b2cf-ba554cfd464c" />
 
 ## Board
 ESP32 Devkit Board v3.3.1
